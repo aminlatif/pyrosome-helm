@@ -1,1 +1,1 @@
-helm repo add pyrosome-helm https://aminlatif.github.io/pyrosome-helm/
+helm repo add pyrosome https://aminlatif.github.io/pyrosome-helm/
