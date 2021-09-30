@@ -3,12 +3,12 @@ entries:
   common:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-09-30T17:28:31.8370378+03:30"
+    created: "2021-09-30T17:55:52.1995704+03:30"
     description: Common templates for Pyrosome helm charts.
-    digest: 2957052f4974ea93d57c3f2721043df10aa4c01aff56a1f4ef262195e273072f
+    digest: 985b32f824badc3b42b377f11623a96e196d03a7c7b4fb97f358301791be5240
     name: common
     type: library
     urls:
     - https://aminlatif.github.io/pyrosome-helm/common-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-30T17:28:31.8360396+03:30"
+generated: "2021-09-30T17:55:52.1990374+03:30"
