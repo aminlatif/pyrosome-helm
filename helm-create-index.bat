@@ -1,1 +1,1 @@
-helm repo index --url https://github.com/aminlatif/pyrosome-helm/ .
+helm repo index --url https://aminlatif.github.io/pyrosome-helm/ .
