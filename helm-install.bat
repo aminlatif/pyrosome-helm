@@ -1,0 +1,1 @@
+helm install pyrosome-%1 ./src/%1
