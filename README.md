@@ -1,2 +1,2 @@
-# pyrosome-helm
+Pyrosome Helm
 Pyrosome helm charts.
